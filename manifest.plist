@@ -11,33 +11,33 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https:baidu.com</string>
+					<string>https://baudi.com</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https:baidu.com</string>
+					<string>https://baudi.com</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https:baidu.com</string>
+					<string>https://baudi.com</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.caitong.happyrun</string>
+				<string>com.ojoj.xiaoyue.asdasd</string>
 				<key>bundle-version</key>
-				<string>1.2.2</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>草榴直播</string>
+				<string>asdasd</string>
 			</dict>
 		</dict>
 	</array>
